@@ -1,8 +1,6 @@
 # 3D Data Processing - TinyPointNet: Point Cloud 3D Descriptors
-
 ---
 A.A. 2025 - Original homework produced by Wanmeng Li, Daniel Fusaro
----
 
 original paper -
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://web.stanford.edu/~rqi/pointnet/)
